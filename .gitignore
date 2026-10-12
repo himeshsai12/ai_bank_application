@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+us/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+data/transactions.csv
